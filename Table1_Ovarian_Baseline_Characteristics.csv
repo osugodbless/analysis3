@@ -1,0 +1,25 @@
+,,Grouped by Clean_Treatment,Grouped by Clean_Treatment,Grouped by Clean_Treatment,Grouped by Clean_Treatment,Grouped by Clean_Treatment,Grouped by Clean_Treatment
+,,Missing,Overall,Chemotherapy Alone (No Surgery),Surgery + Chemotherapy,Surgery Only,P-Value
+n,,,37068,750,24106,12212,
+"Age at Diagnosis, Mean (SD), mean (SD)",,0,53.9 (13.8),62.2 (13.9),54.6 (12.9),52.0 (15.0),<0.001
+"Age Groups, n (%)",20 - 39 years,,4259 (11.5),39 (5.2),2157 (8.9),2063 (16.9),<0.001
+"Age Groups, n (%)",40 - 59 years,,17958 (48.4),218 (29.1),11826 (49.1),5914 (48.4),
+"Age Groups, n (%)",60 - 79 years,,13436 (36.2),396 (52.8),9397 (39.0),3643 (29.8),
+"Age Groups, n (%)",80+ years,,1415 (3.8),97 (12.9),726 (3.0),592 (4.8),
+"Race/Ethnicity, n (%)",American Indian / Alaska Native,,229 (0.6),9 (1.2),148 (0.6),72 (0.6),<0.001
+"Race/Ethnicity, n (%)",Asian / Pacific Islander,,3576 (9.6),45 (6.0),2333 (9.7),1198 (9.8),
+"Race/Ethnicity, n (%)",Hispanic,,4893 (13.2),96 (12.8),3071 (12.7),1726 (14.1),
+"Race/Ethnicity, n (%)",Non-Hispanic Black,,2145 (5.8),85 (11.3),1216 (5.0),844 (6.9),
+"Race/Ethnicity, n (%)",Non-Hispanic White,,26128 (70.5),512 (68.3),17299 (71.8),8317 (68.1),
+"Race/Ethnicity, n (%)",Other/Unknown,,97 (0.3),3 (0.4),39 (0.2),55 (0.5),
+"Median Income Bracket, n (%)","< $60,000",,3689 (10.0),98 (13.1),2348 (9.7),1243 (10.2),0.001
+"Median Income Bracket, n (%)","$60,000 - $99,999",,24978 (67.4),506 (67.5),16260 (67.5),8212 (67.2),
+"Median Income Bracket, n (%)","$100,000+",,8395 (22.6),145 (19.3),5493 (22.8),2757 (22.6),
+"Median Income Bracket, n (%)",Unknown/Missing,,6 (0.0),1 (0.1),5 (0.0),0 (0.0),
+"Rural/Urban, n (%)",Rural (Nonmetropolitan),,3725 (10.0),76 (10.1),2410 (10.0),1239 (10.1),0.527
+"Rural/Urban, n (%)",Unknown/Missing,,32 (0.1),1 (0.1),25 (0.1),6 (0.0),
+"Rural/Urban, n (%)",Urban (Metropolitan),,33311 (89.9),673 (89.7),21671 (89.9),10967 (89.8),
+"Cancer Stage at Diagnosis, n (%)",Localized,,10987 (29.6),19 (2.5),3905 (16.2),7063 (57.8),<0.001
+"Cancer Stage at Diagnosis, n (%)",Regional,,11399 (30.8),87 (11.6),8191 (34.0),3121 (25.6),
+"Cancer Stage at Diagnosis, n (%)",Distant,,13870 (37.4),554 (73.9),11677 (48.4),1639 (13.4),
+"Cancer Stage at Diagnosis, n (%)",Unknown/unstaged,,812 (2.2),90 (12.0),333 (1.4),389 (3.2),
